@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "@jest/test-result": "link:../../../packages/jest-test-result"
+    "@jest/test-result": "29.7.0"
   },
   "jest": {
     "rootDir": "./",
