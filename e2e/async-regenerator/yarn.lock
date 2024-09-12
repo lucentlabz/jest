@@ -119,7 +119,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-plugin-utils@npm:^7.22.5, @babel/helper-plugin-utils@npm:^7.24.7":
+"@babel/helper-plugin-utils@npm:^7.22.5, @babel/helper-plugin-utils@npm:^7.24.7, @babel/helper-plugin-utils@npm:^7.24.8":
   version: 7.24.8
   resolution: "@babel/helper-plugin-utils@npm:7.24.8"
   checksum: 73b1a83ba8bcee21dc94de2eb7323207391715e4369fd55844bb15cf13e3df6f3d13a40786d990e6370bf0f571d94fc31f70dec96c1d1002058258c35ca3767a
@@ -202,19 +202,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-transform-runtime@npm:^7.2.0":
-  version: 7.24.7
-  resolution: "@babel/plugin-transform-runtime@npm:7.24.7"
+"@babel/plugin-transform-runtime@npm:^7.25.4":
+  version: 7.25.4
+  resolution: "@babel/plugin-transform-runtime@npm:7.25.4"
   dependencies:
     "@babel/helper-module-imports": ^7.24.7
-    "@babel/helper-plugin-utils": ^7.24.7
+    "@babel/helper-plugin-utils": ^7.24.8
     babel-plugin-polyfill-corejs2: ^0.4.10
-    babel-plugin-polyfill-corejs3: ^0.10.1
+    babel-plugin-polyfill-corejs3: ^0.10.6
     babel-plugin-polyfill-regenerator: ^0.6.1
     semver: ^6.3.1
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: 98bcbbdc833d5c451189a6325f88820fe92973e119c59ce74bf28681cf4687c8280decb55b6c47f22e98c3973ae3a13521c4f51855a2b8577b230ecb1b4ca5b4
+  checksum: 40ea3519840c1b2062fc53dd0e4ce2b37cd43995bfc8bbb741f1985622138fbfd873307217692d7bf3ab0629faf0ce277e302e8446673fddaf470d3e07dd0fb2
   languageName: node
   linkType: hard
 
@@ -328,7 +328,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-polyfill-corejs3@npm:^0.10.1":
+"babel-plugin-polyfill-corejs3@npm:^0.10.6":
   version: 0.10.6
   resolution: "babel-plugin-polyfill-corejs3@npm:0.10.6"
   dependencies:
@@ -594,7 +594,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.14.2#~builtin<compat/resolve>":
   version: 1.22.8
-  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.8#~builtin<compat/resolve>::version=1.22.8&hash=07638b"
   dependencies:
     is-core-module: ^2.13.0
     path-parse: ^1.0.7
@@ -611,7 +611,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.2.2
     "@babel/plugin-transform-regenerator": ^7.0.0
-    "@babel/plugin-transform-runtime": ^7.2.0
+    "@babel/plugin-transform-runtime": ^7.25.4
   languageName: unknown
   linkType: soft
 
