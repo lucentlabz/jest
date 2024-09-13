@@ -4,7 +4,7 @@
     "snapshotResolver": "<rootDir>/customSnapshotResolver.ts"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-env": "^7.25.4",
     "@babel/preset-typescript": "^7.0.0"
   }
 }
