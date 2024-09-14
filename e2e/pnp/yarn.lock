@@ -3,24 +3,36 @@
 
 __metadata:
   version: 6
+  cacheKey: 8
 
-"foo@portal:./lib::locator=root-workspace-0b6124%40workspace%3A.":
-  version: 0.0.0-use.local
-  resolution: "foo@portal:./lib::locator=root-workspace-0b6124%40workspace%3A."
+"estraverse@npm:^4.1.1":
+  version: 4.3.0
+  resolution: "estraverse@npm:4.3.0"
+  checksum: a6299491f9940bb246124a8d44b7b7a413a8336f5436f9837aaa9330209bd9ee8af7e91a654a3545aee9c54b3308e78ee360cef1d777d37cfef77d2fa33b5827
   languageName: node
-  linkType: soft
+  linkType: hard
+
+"foo@npm:1.0.0":
+  version: 1.0.0
+  resolution: "foo@npm:1.0.0"
+  checksum: 68f0f0ec99b42f38a0f81d31417acfd6448914aadd41b375e44580c10843ac5347a54e013afcfcc2a09415a4ae733b55ac2de7308f123c3237d0aded79109a42
+  languageName: node
+  linkType: hard
 
 "root-workspace-0b6124@workspace:.":
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    foo: "portal:./lib"
-    undeclared: "portal:./undeclared-dependency"
+    foo: 1.0.0
+    undeclared: 1.0.6
   languageName: unknown
   linkType: soft
 
-"undeclared@portal:./undeclared-dependency::locator=root-workspace-0b6124%40workspace%3A.":
-  version: 0.0.0-use.local
-  resolution: "undeclared@portal:./undeclared-dependency::locator=root-workspace-0b6124%40workspace%3A."
+"undeclared@npm:1.0.6":
+  version: 1.0.6
+  resolution: "undeclared@npm:1.0.6"
+  dependencies:
+    estraverse: ^4.1.1
+  checksum: f2da7f45697cd7303d9e0330109a84f9e33589a132ed58c466ebc56b16d47556f92e5bc99bb8c90b7a04636ddc8d7c27f223ca753b53dd9a1570b4237db6a2f9
   languageName: node
-  linkType: soft
+  linkType: hard
