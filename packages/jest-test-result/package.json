@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/console": "workspace:*",
+    "@jest/console": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/istanbul-lib-coverage": "^2.0.0",
     "collect-v8-coverage": "^1.0.0"
