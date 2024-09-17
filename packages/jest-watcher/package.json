@@ -14,7 +14,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/test-result": "workspace:*",
+    "@jest/test-result": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "ansi-escapes": "^4.2.1",
