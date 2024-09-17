@@ -15,10 +15,10 @@
     "./bin/jest": "./bin/jest.js"
   },
   "dependencies": {
-    "@jest/core": "workspace:*",
+    "@jest/core": "24.3.0",
     "@jest/types": "workspace:*",
     "import-local": "^3.0.2",
-    "jest-cli": "workspace:*"
+    "jest-cli": "0.1.0"
   },
   "peerDependencies": {
     "node-notifier": "^8.0.1 || ^9.0.0 || ^10.0.0"
