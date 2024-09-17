@@ -12,8 +12,8 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
-    "@jest/expect": "workspace:*",
+    "@jest/environment": "24.3.0",
+    "@jest/expect": "28.0.0",
     "@jest/types": "workspace:*",
     "jest-mock": "workspace:*"
   },
