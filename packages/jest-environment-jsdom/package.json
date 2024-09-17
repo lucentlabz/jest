@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
+    "@jest/environment": "24.3.0",
     "@jest/environment-jsdom-abstract": "workspace:*",
     "@types/jsdom": "^21.1.1",
     "@types/node": "*",
