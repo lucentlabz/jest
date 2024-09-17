@@ -21,7 +21,7 @@
     "./bin/jest-runtime-cli": "./bin/jest-runtime-cli.js"
   },
   "dependencies": {
-    "@jest/console": "workspace:*",
+    "@jest/console": "24.3.0",
     "@jest/environment": "24.3.0",
     "@jest/transform": "24.3.0",
     "@jest/types": "workspace:*",
