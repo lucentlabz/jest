@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "jest-regex-util": "workspace:*",
-    "jest-snapshot": "workspace:*"
+    "jest-snapshot": "0.0.0"
   },
   "devDependencies": {
     "@jest/test-utils": "workspace:*",
