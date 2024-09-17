@@ -27,10 +27,10 @@
     "convert-source-map": "^2.0.0",
     "fast-json-stable-stringify": "^2.1.0",
     "graceful-fs": "^4.2.9",
-    "jest-haste-map": "workspace:*",
+    "jest-haste-map": "0.0.0",
     "jest-regex-util": "workspace:*",
     "jest-util": "workspace:*",
-    "micromatch": "^4.0.7",
+    "micromatch": "^4.0.8",
     "pirates": "^4.0.4",
     "slash": "^3.0.0",
     "write-file-atomic": "^5.0.0"
