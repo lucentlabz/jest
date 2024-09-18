@@ -22,7 +22,7 @@
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "chalk": "^4.0.0",
-    "jest-message-util": "workspace:*",
+    "jest-message-util": "0.0.0",
     "jest-util": "workspace:*",
     "slash": "^3.0.0"
   },
