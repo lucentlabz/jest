@@ -19,9 +19,9 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
+    "@jest/environment": "24.3.0",
     "@jest/fake-timers": "24.3.0",
-    "@jest/globals": "workspace:*",
+    "@jest/globals": "25.5.0",
     "@jest/source-map": "workspace:*",
     "@jest/test-result": "24.3.0",
     "@jest/transform": "workspace:*",
