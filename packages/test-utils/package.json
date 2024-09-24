@@ -14,7 +14,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/globals": "workspace:*",
+    "@jest/globals": "25.5.0",
     "@jest/pattern": "workspace:*",
     "@jest/types": "workspace:*",
     "@types/node": "*",
