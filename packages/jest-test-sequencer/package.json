@@ -19,9 +19,9 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/test-result": "workspace:*",
+    "@jest/test-result": "24.3.0",
     "graceful-fs": "^4.2.9",
-    "jest-haste-map": "workspace:*",
+    "jest-haste-map": "0.0.0",
     "slash": "^3.0.0"
   },
   "devDependencies": {
