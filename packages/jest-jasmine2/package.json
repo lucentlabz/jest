@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/environment": "workspace:*",
+    "@jest/environment": "24.3.0",
     "@jest/expect": "workspace:*",
     "@jest/source-map": "workspace:*",
     "@jest/test-result": "workspace:*",
@@ -29,10 +29,10 @@
     "co": "^4.6.0",
     "is-generator-fn": "^2.0.0",
     "jest-each": "workspace:*",
-    "jest-matcher-utils": "workspace:*",
-    "jest-message-util": "workspace:*",
-    "jest-runtime": "workspace:*",
-    "jest-snapshot": "workspace:*",
+    "jest-matcher-utils": "0.0.0",
+    "jest-message-util": "0.0.0",
+    "jest-runtime": "0.0.0",
+    "jest-snapshot": "0.0.0",
     "jest-util": "workspace:*",
     "p-limit": "^3.1.0",
     "pretty-format": "workspace:*"
