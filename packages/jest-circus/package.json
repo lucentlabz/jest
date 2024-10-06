@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@jest/environment": "24.3.0",
-    "@jest/expect": "workspace:*",
+    "@jest/expect": "28.0.0",
     "@jest/test-result": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
