@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "expect": "workspace:*",
+    "expect": "0.0.0",
     "jest-snapshot": "0.0.0"
   },
   "engines": {
