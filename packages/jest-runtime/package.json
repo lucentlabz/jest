@@ -24,7 +24,7 @@
     "@jest/globals": "25.5.0",
     "@jest/source-map": "workspace:*",
     "@jest/test-result": "24.3.0",
-    "@jest/transform": "workspace:*",
+    "@jest/transform": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "chalk": "^4.0.0",
