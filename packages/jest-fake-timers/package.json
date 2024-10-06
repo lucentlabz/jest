@@ -22,7 +22,7 @@
     "@jest/types": "workspace:*",
     "@sinonjs/fake-timers": "^11.1.0",
     "@types/node": "*",
-    "jest-message-util": "workspace:*",
+    "jest-message-util": "0.0.0",
     "jest-mock": "workspace:*",
     "jest-util": "workspace:*"
   },
