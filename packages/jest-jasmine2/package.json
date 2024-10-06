@@ -22,7 +22,7 @@
     "@jest/environment": "24.3.0",
     "@jest/expect": "workspace:*",
     "@jest/source-map": "workspace:*",
-    "@jest/test-result": "workspace:*",
+    "@jest/test-result": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "chalk": "^4.0.0",
