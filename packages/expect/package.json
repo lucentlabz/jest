@@ -21,7 +21,7 @@
     "./build/toThrowMatchers": "./build/toThrowMatchers.js"
   },
   "dependencies": {
-    "@jest/expect-utils": "workspace:*",
+    "@jest/expect-utils": "28.0.0",
     "jest-get-type": "workspace:*",
     "jest-matcher-utils": "0.0.0",
     "jest-message-util": "0.0.0",
