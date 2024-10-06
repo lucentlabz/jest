@@ -21,7 +21,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "graceful-fs": "^4.2.9",
-    "jest-haste-map": "workspace:*",
+    "jest-haste-map": "0.0.0",
     "jest-pnp-resolver": "^1.2.2",
     "jest-util": "workspace:*",
     "jest-validate": "workspace:*",
