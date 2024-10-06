@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@jest/environment": "workspace:*",
-    "@jest/fake-timers": "workspace:*",
+    "@jest/fake-timers": "24.3.0",
     "@jest/types": "workspace:*",
     "@types/node": "*",
     "jest-mock": "workspace:*",
