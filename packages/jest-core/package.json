@@ -14,9 +14,9 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/console": "workspace:*",
+    "@jest/console": "24.3.0",
     "@jest/pattern": "workspace:*",
-    "@jest/reporters": "workspace:*",
+    "@jest/reporters": "24.3.0",
     "@jest/test-result": "workspace:*",
     "@jest/transform": "24.3.0",
     "@jest/types": "workspace:*",
@@ -38,7 +38,7 @@
     "jest-snapshot": "0.0.0",
     "jest-util": "workspace:*",
     "jest-validate": "workspace:*",
-    "jest-watcher": "workspace:*",
+    "jest-watcher": "23.1.0",
     "micromatch": "^4.0.8",
     "pretty-format": "workspace:*",
     "slash": "^3.0.0",
