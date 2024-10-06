@@ -19,7 +19,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@jest/console": "workspace:*",
+    "@jest/console": "24.3.0",
     "@jest/environment": "24.3.0",
     "@jest/test-result": "24.3.0",
     "@jest/transform": "24.3.0",
@@ -29,7 +29,7 @@
     "emittery": "^0.13.1",
     "graceful-fs": "^4.2.9",
     "jest-docblock": "workspace:*",
-    "jest-environment-node": "workspace:*",
+    "jest-environment-node": "1.0.0",
     "jest-haste-map": "0.0.0",
     "jest-leak-detector": "workspace:*",
     "jest-message-util": "0.0.0",
