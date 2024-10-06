@@ -37,7 +37,7 @@
     "jest-mock": "workspace:*",
     "jest-regex-util": "workspace:*",
     "jest-resolve": "0.0.0",
-    "jest-snapshot": "workspace:*",
+    "jest-snapshot": "0.0.0",
     "jest-util": "workspace:*",
     "slash": "^3.0.0",
     "strip-bom": "^4.0.0"
